@@ -38,9 +38,14 @@ a:hover {
   color: #BFC6B8;
 }
 
+.container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
 @media (max-width: 960px) {
   .container {
-    width: 700px;
+    width: 500px;
     /*margin: 0 auto;*/
   }
 }
